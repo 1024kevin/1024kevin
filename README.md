@@ -12,3 +12,6 @@
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=1024kevin" />
 </div>
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=1024kevin&theme=minimal" />
+</div>
