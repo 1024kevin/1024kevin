@@ -21,3 +21,4 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=1024kevin&theme=minimal" />
 </div>
 
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/1024kevin/1024kevin/assets/github-contribution-grid-snake.svg" /></div>
