@@ -1,7 +1,7 @@
 ﻿# 1024kevin
 
 <div align="center">
-	<img src="https://metrics.lecoq.io/1024kevin?template=classic&config.timezone=Asia%2FShanghai">
+	<img src="https://metrics.lecoq.io/KevinCN?template=classic&config.timezone=Asia%2FShanghai">
 </div>
 
 
