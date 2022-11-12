@@ -16,4 +16,4 @@
     
     
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/1024kevin/1024kevin/assets/github-contribution-grid-snake.svg" /></div>
+![](https://raw.githubusercontent.com/1024kevin/1024kevin/main/assets/github-contribution-grid-snake.svg)
