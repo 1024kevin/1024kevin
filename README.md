@@ -9,7 +9,6 @@
 <p>&emsp;&emsp;热爱前端和IT互联网事业，励志成为一名资深程序员!</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
-<p>&emsp;&emsp;长风破浪会有时，直挂云帆济沧海。</p>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
